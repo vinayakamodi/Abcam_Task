@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to my solution for the AI Engineer coding task at Abcam. This project involves processing a CSV file named `uniprot_sequences.csv`, which contains simulated protein sequence data. The task is designed to showcase skills in data manipulation and feature extraction using popular Python libraries.
+Welcome to my solution for the AI Engineer coding task at Abcam. This project involves processing a CSV file named `uniprot_sequences.csv`, which contains simulated protein sequence data.
 
 ## Task Requirements
 
@@ -22,6 +22,7 @@ Before you start, make sure you have Python 3.8 or higher installed. To install 
 
 ```bash
 pip install pandas numpy
+```
 
 ## Usage
 
