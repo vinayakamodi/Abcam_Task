@@ -51,3 +51,18 @@ To run the tests, use this command:
 ```bash
 python -m unittest test
 ```
+## LaTeX Source and PDF Output
+
+The files related to the LaTeX document are structured as follows:
+
+- `report.tex`: This file contains the LaTeX source code for the comprehensive report on the Python coding task. It includes detailed descriptions of the algorithms, software design principles, testing procedures, and potential future enhancements related to the project. The `.tex` format is editable and can be compiled to generate a PDF using any LaTeX editor that supports compiling documents.
+
+- `report.pdf`: This file is the compiled output of `report.tex`. It presents the formatted and typeset version of the report, which is ready for viewing and distribution. This document includes all sections described in the LaTeX source code, rendered into a professional-looking report format.
+
+To compile `report.tex` to `report.pdf`:
+1. Ensure you have a LaTeX editor like TeXShop (for Mac), TeXworks (cross-platform), or an online editor like Overleaf.
+2. Open `report.tex` in your LaTeX editor.
+3. Compile the document using the appropriate command in your editor, typically found in the build or compile menu.
+
+The `report.pdf` is useful for reviewing the project's documentation in a format that is easy to share and present during meetings or audits.
+
