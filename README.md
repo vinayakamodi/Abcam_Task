@@ -29,6 +29,7 @@ Run the following command to process the sequence data and see the output:
 
 ```bash
 python main.py
+```
 
 This will process the data in `uniprot_sequences.csv` and display the first few rows of the output DataFrame.
 
@@ -48,3 +49,4 @@ To run the tests, use this command:
 
 ```bash
 python -m unittest test
+```
