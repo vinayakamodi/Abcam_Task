@@ -51,7 +51,7 @@ To run the tests, use this command:
 ```bash
 python -m unittest test
 ```
-## LaTeX Source and PDF Output
+## LaTeX and PDF Report
 
 The files related to the LaTeX document are structured as follows:
 
